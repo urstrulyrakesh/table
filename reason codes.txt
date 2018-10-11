@@ -1,0 +1,10 @@
+200?—?For Successful request.
+201?—?For successful request and data was created.
+204?—?For Empty Response.
+400?—?For Bad Request. The request could not be understood or was missing any required parameters.
+401?—?For Unauthorized access. Authentication failed or user does not have permissions for the requested operation.
+403?—?For Forbidden, Access denied.
+404?—?For data not found.
+405?—?For Method Not Allowed or Requested method is not supported.
+500?—?For Internal Server Error.
+503?—?For Service Unavailable.
